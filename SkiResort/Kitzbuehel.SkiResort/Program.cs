@@ -8,8 +8,7 @@ using System.IO;
 namespace Kitzbuehel.SkiResort {
 
     class Program {
-
-
+        
         static void Main(string[] args) {
             Console.WriteLine("Enter the path of the file");
             var pathFile = Console.ReadLine();
